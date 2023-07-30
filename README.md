@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### Skills 💪
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
-<img src="https://img.shields.io/badge/CSharp-99CC00?style=for-the-badge&logo=CSharp&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/CSharp-99CC00?style=for-the-badge&logo=CSharp&logoColor=white">
 <!--
 **shinkiwhan/shinkiwhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
